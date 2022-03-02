@@ -47,7 +47,7 @@
 		<input type="text" name="addr" placeholder="주소 입력..."/>
 		<button type="submit">전송</button>
 	</form>
-	<h1>테스트입니다.</h1>
+	<h1>테스트입니다2.</h1>
 </div>
 </body>
 </html>
